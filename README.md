@@ -1,10 +1,12 @@
 # .·:·.☽✧ Hi there, my name is Aaleeyah! ✧☾.·:·.
 
-## About Me: 
+## About Me: Future Front-End Developer/Engineer
+I enjoy drawing, writing, playing games and most importantly coding. Also reading books can be pretty fun so that too.
 
 ### Learning C#, JS, HTML, CSS.
 I'm curretly studying programming and development at **Tri-C Community College**.
 You can find me working on different small _assignments_ inbetween creating/building projects. I would love to collaborate and contribute to helping others through coding, and spreading my ideas everywhere. There is so much out there to explore so I am trying to learn as much as I can.
+
 
 Check out my repositories: 
 - https://github.com/AaleeyahIvy/Randomosity
