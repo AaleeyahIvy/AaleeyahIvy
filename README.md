@@ -1,16 +1,15 @@
-### Hi there 👋
+# .·:·.☽✧ Hi there, my name is Aaleeyah! ✧☾.·:·.
 
-<!--
-**AaleeyahIvy/AaleeyahIvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me: 
 
-Here are some ideas to get you started:
+### Learning C#, JS, HTML, CSS.
+I'm curretly studying programming and development at **Tri-C Community College**.
+You can find me working on different small _assignments_ inbetween creating/building projects. I would love to collaborate and contribute to helping others through coding, and spreading my ideas everywhere. There is so much out there to explore so I am trying to learn as much as I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my repositories: 
+- https://github.com/AaleeyahIvy/Randomosity
+- https://github.com/AaleeyahIvy/SolWars
+
+✿ Have a wonderful day! ![img](https://media4.giphy.com/media/XGzFMTp27M5VDgkV77/giphy.gif)
+
+
