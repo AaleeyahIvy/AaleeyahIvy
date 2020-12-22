@@ -1,7 +1,7 @@
 # .·:·.☽✧ Hi there, my name is Aaleeyah! ✧☾.·:·.
 
 ## About Me: Future Front-End Developer/Engineer
-I enjoy drawing, writing, playing games and most importantly coding. Also, reading books can be pretty fun so that too.
+I enjoy drawing, writing, playing games and most importantly coding. Also, reading books can be pretty fun, so that too.
 
 ### Learning C#, JS, HTML, CSS.
 I'm currently studying programming and development at **Tri-C Community College**.
