@@ -1,6 +1,6 @@
 # .·:·.☽✧ Hi there, my name is Aaleeyah! ✧☾.·:·.
 
-## About Me: Future Front-End or Back-End /Engineer?
+## About Me: Future Fullstack Engineer!
 I enjoy drawing, writing, playing games and most importantly coding. Also, reading books can be pretty fun, so that too.
 
 ### Learning C#, JS, HTML, CSS, JAVA.
