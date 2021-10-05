@@ -12,6 +12,9 @@ Check out my repositories:
 - https://github.com/AaleeyahIvy/Randomosity
 - https://github.com/AaleeyahIvy/SolWars
 
-✿ Have a wonderful day! ![img](https://tenor.com/view/asd-gif-19268779)
-[img](https://64.media.tumblr.com/ff248a24f1975b324615840957c6a2cd/1aee8ba8f0cb234c-1b/s400x600/aa728926b10a76c3aef2a9d8c11586d33100aaaf.gifv)
+![9f846a92ea5c0f1d7ca3a96f11fdda96](https://user-images.githubusercontent.com/53322518/136042014-fed9b2b5-a2d2-4d4b-a007-e67419ea3937.gif)
 
+![tumblr_ff248a24f1975b324615840957c6a2cd_27540f89_1280](https://user-images.githubusercontent.com/53322518/136042370-78d57aa6-cad1-4baf-b3a0-2ab9a91c6d52.gif)
+
+
+✿ Have a beautiful day!
