@@ -26,6 +26,6 @@
 
 
 Check out my repositories: 
-- https://github.com/AaleeyahIvy/Randomosity
-- https://github.com/AaleeyahIvy/SolWars
+- https://github.com/AaleeyahIvy/Portfolio
+- https://github.com/AaleeyahIvy/IT2030
 - My bijillion school projects buried in my repos!
