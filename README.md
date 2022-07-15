@@ -29,4 +29,5 @@ Check out my repositories:
 - https://github.com/AaleeyahIvy/Portfolio
 - https://github.com/AaleeyahIvy/IT2030
 - My bijillion school projects buried in my repos!
-![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
+- 
+✿![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
