@@ -31,5 +31,5 @@ Check out my repositories:
 - My bijillion school projects buried in my repos!
 - Currently working on my portfolio!
 - Currently working on a couples app with my fiance!
-- 
+
 ✿![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
