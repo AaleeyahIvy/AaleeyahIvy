@@ -31,6 +31,6 @@ Check out my repositories:
 - https://github.com/AaleeyahIvy/IT2030
 - My bijillion school projects buried in my repos!
 - Currently working on my portfolio!
-- Currently working on a couples app with my fiance!
+- Currently working on a friend app with my fiance!
 
 ✿![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
