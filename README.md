@@ -34,3 +34,4 @@ Check out my repositories:
 - Currently working on a friend app with my fiance!
 
 ✿![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
+✿[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0FR7XG)
