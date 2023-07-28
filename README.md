@@ -1,4 +1,4 @@
-Hi Hi, you can find me being toxic on league of legends <3 
+Hi Hi, you can find me being toxic on League of Legends <3 
 
 <hr>
 ✿ My Languages:
