@@ -1,4 +1,4 @@
-![Pink and Tan Flowers Modern Artisan Business X-Frame Banner (1)](https://user-images.githubusercontent.com/53322518/179072610-bad3a4b2-8268-4ac2-87ae-d7161d600d9c.gif)
+Hi Hi, you can find me being toxic on league of legends <3 
 
 <hr>
 ✿ My Languages:
