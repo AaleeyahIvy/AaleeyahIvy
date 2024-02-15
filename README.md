@@ -1,4 +1,4 @@
-Hi, you can find me being toxic on League of Legends <3 or coding or listening to music & drawing.
+Hi, you can find me being toxic on League of Legends / OverWatch / Fortnite <3 or coding or listening to music & drawing.
 
 <hr>
 ✿ My Languages:
@@ -26,13 +26,12 @@ Hi, you can find me being toxic on League of Legends <3 or coding or listening t
 <hr>
 
 
-Check out my repositories: 💫
-- https://github.com/AaleeyahIvy/Portfolio
-- https://github.com/AaleeyahIvy/IT2030
-- My bijillion school projects are buried in my repos!
-- Currently working on my portfolio!
-- Currently working on a friend app with my husband!
-- Learning PHP Laravel and maintaining code 💫
-
+What I'm working on: 💫
+- Maintaining my portfolio and adding new features.
+- Working on a new project that combines music/colors.
+- Learning TypeScript/React.
+- Understanding DSA
+- Learning how to be a good programmer!
+- 
 ✿![Profile View Counter](https://komarev.com/ghpvc/?username=AaleeyahIvy)
 ✿[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0FR7XG)
