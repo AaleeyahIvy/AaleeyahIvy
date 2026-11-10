@@ -188,7 +188,7 @@
 
 <!-- SANDWORM PAUSED: GitHub Actions is blocked by a billing lock on the account.
      Once billing is fixed and the "sandworm" workflow has run once, restore this block
-     (swap <!~~ back to <!-- and ~~> back to -->) and put the nav link back.
+     (swap every "<!~~" and "~~>" in it back to normal HTML comment markers) and put the nav link back.
 <!~~ ─────────────────────────── V · sand signals ─────────────────────────── ~~>
 <a id="signals"></a>
 
