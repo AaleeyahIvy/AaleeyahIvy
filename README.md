@@ -19,6 +19,7 @@
 
 <!-- ─────────────────────────── I · the sietch ─────────────────────────── -->
 <a id="sietch"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-sietch-dark.svg">
   <img alt="I · the sietch — who i am" src="./assets/h-sietch-light.svg" width="100%">
@@ -88,6 +89,7 @@
 
 <!-- ─────────────────────────── II · the spice ─────────────────────────── -->
 <a id="spice"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-spice-dark.svg">
   <img alt="II · the spice — what i build" src="./assets/h-spice-light.svg" width="100%">
@@ -129,6 +131,7 @@
 
 <!-- ─────────────────────────── III · the stillsuit ─────────────────────────── -->
 <a id="stillsuit"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stillsuit-dark.svg">
   <img alt="III · the stillsuit — what i carry" src="./assets/h-stillsuit-light.svg" width="100%">
@@ -156,6 +159,7 @@
 
 <!-- ─────────────────────────── IV · the long walk ─────────────────────────── -->
 <a id="walk"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-walk-dark.svg">
   <img alt="IV · the long walk — where i've been" src="./assets/h-walk-light.svg" width="100%">
@@ -187,6 +191,7 @@
      (swap <!~~ back to <!-- and ~~> back to -->) and put the nav link back.
 <!~~ ─────────────────────────── V · sand signals ─────────────────────────── ~~>
 <a id="signals"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-signals-dark.svg">
   <img alt="V · sand signals — what stirs" src="./assets/h-signals-light.svg" width="100%">
@@ -207,6 +212,7 @@
 
 <!-- ─────────────────────────── VI · water of life ─────────────────────────── -->
 <a id="water"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-water-dark.svg">
   <img alt="VI · water of life — find me" src="./assets/h-water-light.svg" width="100%">
