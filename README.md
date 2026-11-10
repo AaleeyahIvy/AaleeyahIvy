@@ -12,7 +12,6 @@
   <a href="#spice">the spice</a> &nbsp;◈&nbsp;
   <a href="#stillsuit">the stillsuit</a> &nbsp;◈&nbsp;
   <a href="#walk">the long walk</a> &nbsp;◈&nbsp;
-  <a href="#signals">sand signals</a> &nbsp;◈&nbsp;
   <a href="#water">water of life</a>
 </p>
 
@@ -183,7 +182,10 @@
 
 <br>
 
-<!-- ─────────────────────────── V · sand signals ─────────────────────────── -->
+<!-- SANDWORM PAUSED: GitHub Actions is blocked by a billing lock on the account.
+     Once billing is fixed and the "sandworm" workflow has run once, restore this block
+     (swap <!~~ back to <!-- and ~~> back to -->) and put the nav link back.
+<!~~ ─────────────────────────── V · sand signals ─────────────────────────── ~~>
 <a id="signals"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-signals-dark.svg">
@@ -200,6 +202,8 @@
 </p>
 
 <br>
+
+-->
 
 <!-- ─────────────────────────── VI · water of life ─────────────────────────── -->
 <a id="water"></a>
